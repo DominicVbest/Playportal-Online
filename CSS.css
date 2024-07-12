@@ -1,0 +1,24 @@
+#banner {
+	color: #FFA500;
+	border: 50px;
+	font-size: 75px;
+	table-layout:centre;
+	background-image: url("portal.png"); /* The image used */
+  	background-color: ##000000; /* Used if the image is unavailable */
+  	height: 50px; /* You must set a specified height */
+  	background-position: center; /* Center the image */
+  	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: cover; /* Resize the background image to cover the entire container */
+	font-family: "Josefin Sans", Times, serif;
+}
+
+
+#game1 {
+	color: white;
+	border: 1px;
+	background-color:#1F51F0;
+	font-size: 33px;
+	table-layout:centre;
+	font-family: "Josefin Sans", Times, serif;
+	bordercolor="black"
+}
